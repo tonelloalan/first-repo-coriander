@@ -23,3 +23,14 @@ Learning Github and Markdown.
 
 ## Add my image
 ![Les 400 coups](les400coups.jpg)
+
+## Code
+
+### Code line
+We can add `line` of code `name=Alan`
+
+### Code block
+```js
+let cohort = "Coriander"
+let students = 17
+```
