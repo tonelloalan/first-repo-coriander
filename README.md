@@ -13,3 +13,6 @@ Learning Github and Markdown.
 - First item
 - Second item
 - Third item
+
+## Link a page
+[Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
