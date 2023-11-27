@@ -1,2 +1,3 @@
-# first-repo-coriander
-First repo Coriander
+# Learning Github and Markdown
+
+Learning Github and Markdown.
