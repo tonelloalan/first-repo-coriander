@@ -17,3 +17,6 @@ Learning Github and Markdown.
 ## Link a page
 [Markdown Guide](https://www.markdownguide.org/cheat-sheet/)
 [Spiced Academy Github](https://github.com/spiced-academy/coriander-web-dev)
+
+## Add an image
+![Coriander](https://i.pinimg.com/originals/92/37/be/9237becd55c2d85768599c94496ec11e.jpg)
